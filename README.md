@@ -138,15 +138,3 @@ The physical edge architecture features an ESP32 microcontroller acting as a rea
   <p align="center">
    <img src="grafana/dashboard.png" width="800" alt="Grafana Dashboard">
   </p>
-
----
-
-## 📄 License
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
----
-
-## 👥 Author
-* Ignacy Glura
-* GitHub: [@ignaczy](https://github.com/ignaczy)
